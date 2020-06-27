@@ -3,9 +3,9 @@
 [ [paper](https://arxiv.org/abs/1701.07875) ] [ [著者のリポジトリ](https://github.com/martinarjovsky/WassersteinGAN) ]
 
 - WGANをPytorchで実装しました．比較対象としてDCGANも実装しました．
-    - [Notebook](https://dev.usagee.jp/t183350/wgan-pytorch/blob/master/wgan.ipynb)
+    - [Notebook](https://github.com/tiruota/WGAN-PyTorch/blob/master/wgan.ipynb)
 - モード崩壊と回避を可視化しました．
-    - [Notebook](https://dev.usagee.jp/t183350/wgan-pytorch/blob/master/train_gaussian_mixture/wgan_gaussian_mixture.ipynb)
+    - [Notebook](https://github.com/tiruota/WGAN-PyTorch/blob/master/train_gaussian_mixture/wgan_gaussian_mixture.ipynb)
 
 
 参考コード
